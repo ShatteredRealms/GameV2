@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ModularWindows.cpp.obj": [
+			"BaseWindow.gen.cpp.obj",
+			"DropDownData.gen.cpp.obj",
+			"DropDownList.gen.cpp.obj",
+			"DropDownListEntry.gen.cpp.obj",
+			"ModularWindows.init.gen.cpp.obj",
+			"MoveableResizableWidget.gen.cpp.obj",
+			"MoveableWidget.gen.cpp.obj",
+			"TabWidget.gen.cpp.obj",
+			"BaseWindow.cpp.obj",
+			"DropDownData.cpp.obj",
+			"DropDownList.cpp.obj",
+			"DropDownListEntry.cpp.obj",
+			"MoveableResizableWidget.cpp.obj",
+			"MoveableWidget.cpp.obj",
+			"TabWidget.cpp.obj"
+		]
+	}
+}

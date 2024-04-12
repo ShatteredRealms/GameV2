@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "z:\\sro\\git\\mmo\\plugins\\asyncmixin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\asyncmixin\\module.asyncmixin.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\unrealengine\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "z:\\sro\\git\\mmo\\plugins\\asyncmixin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\asyncmixin\\definitions.asyncmixin.h",
+            "z:\\sro\\git\\mmo\\plugins\\asyncmixin\\source\\private\\asyncmixin.cpp",
+            "z:\\sro\\git\\mmo\\plugins\\asyncmixin\\source\\public\\asyncmixin.h",
+            "z:\\unrealengine\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanager.h",
+            "z:\\unrealengine\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanagertypes.h",
+            "z:\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\assetmanagertypes.generated.h",
+            "z:\\unrealengine\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "z:\\unrealengine\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "z:\\unrealengine\\engine\\source\\runtime\\coreuobject\\public\\misc\\packageaccesstracking.h",
+            "z:\\unrealengine\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "z:\\unrealengine\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "z:\\unrealengine\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "z:\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "z:\\unrealengine\\engine\\source\\runtime\\core\\public\\genericplatform\\genericplatformchunkinstall.h",
+            "z:\\unrealengine\\engine\\source\\runtime\\engine\\classes\\engine\\contentencryptionconfig.h",
+            "z:\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\assetmanager.generated.h",
+            "z:\\sro\\git\\mmo\\plugins\\asyncmixin\\source\\private\\asyncmixinmodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

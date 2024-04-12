@@ -1,0 +1,23 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TargetingSystem.cpp.obj": [
+			"AttackableCharacter.gen.cpp.obj",
+			"AttackTargetComponent.gen.cpp.obj",
+			"AttackTargetDetailsWidget.gen.cpp.obj",
+			"StationaryTarget.gen.cpp.obj",
+			"Targetable.gen.cpp.obj",
+			"TargetableCharacter.gen.cpp.obj",
+			"TargetComponent.gen.cpp.obj",
+			"TargetDetailsWidget.gen.cpp.obj",
+			"TargetingSystem.init.gen.cpp.obj",
+			"AttackTargetComponent.cpp.obj",
+			"TargetComponent.cpp.obj",
+			"AttackableCharacter.cpp.obj",
+			"StationaryTarget.cpp.obj",
+			"TargetableCharacter.cpp.obj",
+			"AttackTargetDetailsWidget.cpp.obj",
+			"TargetDetailsWidget.cpp.obj"
+		]
+	}
+}
